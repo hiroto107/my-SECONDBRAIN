@@ -18,6 +18,7 @@ updated: 2026-04-11
 
 - [[LLM Wiki/wiki/sources/2026-04-11 Source - CoDesignAI]] - 参加型都市デザインにおける multi-user / multi-agent 協働 platform の source summary。
 - [[LLM Wiki/wiki/sources/2026-04-11 Source - 御霊信仰の諸相]] - 怨霊、御霊会、鎮魂、天神化を通して日本の御霊信仰を整理した source summary。
+- [[LLM Wiki/wiki/sources/2026-04-11 Source - アニミズムと日本コンテンツへの影響]] - アニミズムの定義、日本での受容、コンテンツへの影響、テクノアニミズムまでを整理した source summary。
 
 ## entities
 
@@ -31,8 +32,11 @@ updated: 2026-04-11
 - [[LLM Wiki/wiki/concepts/AI支援型協働設計]] - 会話、記憶、外部ツール、生成物を束ねる AI 主導の協働設計パターン。
 - [[LLM Wiki/wiki/concepts/御霊信仰]] - 怨霊を祀り鎮め、共同体の秩序へ再配置する信仰構造。
 - [[LLM Wiki/wiki/concepts/怨霊]] - 非業の死、冤罪、災厄解釈と結びつく日本的怪異の核。
+- [[LLM Wiki/wiki/concepts/アニミズム]] - 自然、モノ、神、死者、人工物にまで連続する万物有霊的世界観。
+- [[LLM Wiki/wiki/concepts/テクノアニミズム]] - AI やロボットに人格や気配を見る現代的アニミズム。
 
 ## syntheses
 
 - [[LLM Wiki/wiki/syntheses/2026-04-11 Synthesis - AIは協働の場をどう支えるか]] - CoDesignAI から抽出した、AI の協働支援役割の圧縮版。
 - [[LLM Wiki/wiki/syntheses/2026-04-11 Synthesis - 怨霊はどのように御霊へ変わるか]] - 怨霊が祭祀と社会的解釈を通じて御霊化する過程の圧縮版。
+- [[LLM Wiki/wiki/syntheses/2026-04-11 Synthesis - アニミズムは日本コンテンツに何をもたらすか]] - アニミズムが日本コンテンツの世界観と倫理に与える効果の圧縮版。

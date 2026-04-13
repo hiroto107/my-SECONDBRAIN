@@ -40,3 +40,12 @@ append-only の時系列ログ。
 - 関連 page として `[[LLM Wiki/wiki/entities/菅原道真]]` `[[LLM Wiki/wiki/concepts/御霊信仰]]` `[[LLM Wiki/wiki/concepts/怨霊]]` を追加。
 - 抽出知見を保存するため `[[LLM Wiki/wiki/syntheses/2026-04-11 Synthesis - 怨霊はどのように御霊へ変わるか]]` を追加。
 - `overview.md` と `index.md` を更新し、日本文化 / ホラー / 鎮魂の軸を強化。
+
+## [2026-04-11] ingest | アニミズムと日本コンテンツへの影響
+
+- `[[LLM Wiki/raw/animism_report.pdf]]` を source として読解。
+- source summary として `[[LLM Wiki/wiki/sources/2026-04-11 Source - アニミズムと日本コンテンツへの影響]]` を作成。
+- 関連 page として `[[LLM Wiki/wiki/concepts/アニミズム]]` `[[LLM Wiki/wiki/concepts/テクノアニミズム]]` を追加。
+- 抽出知見を保存するため `[[LLM Wiki/wiki/syntheses/2026-04-11 Synthesis - アニミズムは日本コンテンツに何をもたらすか]]` を追加。
+- 既存 page との接続として `[[LLM Wiki/wiki/concepts/御霊信仰]]` `[[LLM Wiki/wiki/concepts/怨霊]]` `[[LLM Wiki/wiki/concepts/AI支援型協働設計]]` に関連リンクを追加。
+- `overview.md` と `index.md` を更新し、日本文化 / コンテンツ / AI の橋渡しとしてアニミズム軸を反映。

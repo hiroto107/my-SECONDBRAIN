@@ -29,6 +29,7 @@ updated: 2026-04-11
 
 ## 関連ページ
 
+- [[LLM Wiki/wiki/concepts/テクノアニミズム]]
 - [[LLM Wiki/wiki/entities/CoDesignAI]]
 - [[LLM Wiki/wiki/concepts/AIファシリテーター]]
 - [[LLM Wiki/wiki/concepts/ラウンド型協働]]
