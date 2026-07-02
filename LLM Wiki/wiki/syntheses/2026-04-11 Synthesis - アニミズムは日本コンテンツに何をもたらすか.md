@@ -57,4 +57,4 @@ updated: 2026-04-11
 ## 根拠
 
 - [[LLM Wiki/wiki/sources/2026-04-11 Source - アニミズムと日本コンテンツへの影響]]
-- [[LLM Wiki/raw/animism_report.pdf]]
+- [[LLM Wiki/raw/clipping/animism_report.pdf]]

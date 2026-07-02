@@ -12,7 +12,8 @@ status: active
 1. Web Clipper や PDF などをここへ入れる
 2. LLM に source を指定して ingest を依頼する
 3. LLM が `wiki/` 側へ summary と cross-reference を作る
-4. raw source 自体はそのまま残す
+4. ingest 後、外部資料は `[[LLM Wiki/raw/clipping]]` へ移す（Vault 内ノートのコピーは `from-vault/` へ）
+5. raw source 自体はそのまま残す
 
 ## メモ
 

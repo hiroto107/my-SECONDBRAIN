@@ -1,7 +1,7 @@
 ---
 type: wiki-source
 status: active
-source_path: "LLM Wiki/raw/codeshgin.pdf"
+source_path: "LLM Wiki/raw/clipping/codeshgin.pdf"
 source_kind: "research paper (pdf)"
 created: 2026-04-11
 updated: 2026-04-11
@@ -48,4 +48,4 @@ updated: 2026-04-11
 
 ## 根拠
 
-- [[LLM Wiki/raw/codeshgin.pdf]]
+- [[LLM Wiki/raw/clipping/codeshgin.pdf]]

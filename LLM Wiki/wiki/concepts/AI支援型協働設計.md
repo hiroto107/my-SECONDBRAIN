@@ -5,6 +5,7 @@ aliases:
   - AI-assisted collaborative design
 source_pages:
   - "[[LLM Wiki/wiki/sources/2026-04-11 Source - CoDesignAI]]"
+  - "[[LLM Wiki/wiki/sources/2026-04-15 Source - Thread by @shannholmberg（AutoReason for Marketing）]]"
 updated: 2026-04-11
 ---
 
@@ -15,6 +16,7 @@ updated: 2026-04-11
 - `AI支援型協働設計` は、人間同士の議論と AI の補助を組み合わせ、設計や意思決定を反復的に前進させる枠組み。
 - CoDesignAI では、AI は単なる回答エンジンではなく、`facilitator` `expert` `prompt parser` `image revision support` として分業している。
 - 会話、共有メモリ、外部ツール、生成結果が一連の workflow としてつながっている点が重要。
+- AutoReason 文脈では、役割分離・盲検評価・Borda 集計を導入し、主観タスクでも反証的に品質を上げる運用へ拡張される。
 
 ## 定義または輪郭
 
@@ -33,7 +35,10 @@ updated: 2026-04-11
 - [[LLM Wiki/wiki/entities/CoDesignAI]]
 - [[LLM Wiki/wiki/concepts/AIファシリテーター]]
 - [[LLM Wiki/wiki/concepts/ラウンド型協働]]
+- [[LLM Wiki/wiki/concepts/AutoReason]]
+- [[LLM Wiki/wiki/entities/shannholmberg]]
 - [[LLM Wiki/wiki/syntheses/2026-04-11 Synthesis - AIは協働の場をどう支えるか]]
+- [[LLM Wiki/wiki/syntheses/2026-04-15 Synthesis - AutoReasonをマーケ実務に落とすときの設計要点]]
 
 ## 緊張関係 / 異説
 
@@ -50,4 +55,5 @@ updated: 2026-04-11
 ## 根拠
 
 - [[LLM Wiki/wiki/sources/2026-04-11 Source - CoDesignAI]]
-- [[LLM Wiki/raw/codeshgin.pdf]]
+- [[LLM Wiki/raw/clipping/codeshgin.pdf]]
+- [[LLM Wiki/wiki/sources/2026-04-15 Source - Thread by @shannholmberg（AutoReason for Marketing）]]

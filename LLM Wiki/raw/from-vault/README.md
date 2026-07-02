@@ -12,6 +12,7 @@ status: active
 - 元ファイルは残す
 - ここでは source copy として扱う
 - 既存リンクを壊さないため、物理移動ではなく複製を優先する
+- Vault 外・Web 由来の資料（`Clippings/`、PDF、X など）は `[[LLM Wiki/raw/clipping]]` 側に置く
 
 ## 今回取り込んだ束
 
